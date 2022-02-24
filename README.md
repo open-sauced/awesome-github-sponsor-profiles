@@ -11,7 +11,7 @@ Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repos
 
 ## A
 - [aprilspeight](https://github.com/sponsors/aprilspeight)
-- 
+
 ## B
 ## C
 ## D
