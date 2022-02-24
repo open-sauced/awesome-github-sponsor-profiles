@@ -1,11 +1,11 @@
 # awesome-github-sponsor-profiles
 A curated list of awesome GitHub Sponsor Profiles 💖
 
+Knowing what to put in a blank GitHub Sponsor Profile is a challenge. This list is meant to inspire others to create a profile and add context.
+
 This repository was ~inspired~ copied from [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) github repository.
 
 Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repository. Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
-
-Knowing what to put in a blank GitHub Sponsor Profile is a challenge. This list is meant to inspire others to create a profile and add context.
 
 **Jump to:**  | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
